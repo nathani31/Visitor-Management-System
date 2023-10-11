@@ -1,0 +1,85 @@
+/* Navigation.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container-fluid {
+  display: flex;
+  min-height: 100vh;
+}
+
+
+
+
+.nav {
+  width: 200px; /* Adjust the width of your navigation bar */
+  background-color: #3e3939;
+  color: white;
+  padding: 20px;
+  position: fixed; /* Make the navigation bar fixed */
+  height: 100%; /* Make the navigation bar cover the full height of the viewport */
+  top: 0; /* Position it at the top of the viewport */
+  left: 0; /* Position it at the left side of the viewport */
+  overflow-y: auto; /* Add vertical scroll if needed */
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-item {
+  margin-bottom: 10px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 120px; /* Adjust this margin to account for the width of the navigation bar */
+  overflow-y: auto;
+}
+
+/* Adjust the width of the main content column for larger screens */
+@media (min-width: 768px) {
+  .main-content {
+    width: 70%; /* Adjust as needed */
+    margin-left: 240px; /* Adjust this margin to account for the width of the navigation bar */
+  }
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Align items to the left */
+}
+
+.header-container h4 {
+  margin-right: 10px; /* Add margin for spacing between the text and button */
+}
+
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+

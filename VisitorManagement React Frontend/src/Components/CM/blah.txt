@@ -1,0 +1,160 @@
+import React, { useState, useEffect } from "react";
+import CountryService from "../../services/Countryservice";
+import { Link } from "react-router-dom";
+
+const CountryList = () => {
+  const [country, setCountry] = useState([]);
+  const [currentCountry, setCurrentCountry] = useState(null);
+  const [currentIndex, setCurrentIndex] = useState(-1);
+  const [searchCountryName, setSearchCountryName] = useState("");
+  const [message, setMessage] = useState("");
+  const [createFormState, setCreateFormState] = useState({
+    countryname: "",
+    countrycode: "",
+    countryid: "",
+    status: ""
+  });
+
+
+const dummyData = [
+    { countryid: 1, countryname: "country 1", countrycode: "CO1", status: 1 },
+    { countryid: 2, countryname: "country 2", countrycode: "CO2", status: 1 },
+  ];
+
+
+  useEffect(() => {
+    retrieveCountry();
+    setCountry(dummyData);
+  }, []);
+
+useEffect(() => {
+    // When the currentState changes, update the Create Form data
+    if (currentCountry) {
+      setCreateFormState({
+        statename: currentCountry.statename,
+        statecode: currentCountry.statecode,
+        countryid: currentCountry.countryid,
+      });
+    }
+  }, [currentState]);
+
+  const onChangeSearchCountryName = (e) => {
+    const name = e.target.value;
+    setSearchCountryName(name);
+  };
+
+  const retrieveCountry = () => {
+    CountryService.searchInitialize({
+        stateid: 0
+    })
+     .then(response => {
+       console.log(response);
+       setCountry(response.data.CountryList);
+       console.log(country);
+      })
+     .catch((error) => {
+        console.error(error);
+      });
+  };
+
+  const refreshList = () => {
+    retrieveCountry();
+    setCurrentCountry(null);
+    setCurrentIndex(-1);
+  };
+
+  const setActiveCountry = (country, index) => {
+    setCurrentCountry(country);
+    setCurrentIndex(index);
+  };
+
+  const removeAllCountry = () => {
+    CountryService.changeStatus({ countryid: null })
+      .then(response => {
+        console.log(response.data);
+        setMessage("All countries have been removed successfully.");
+        refreshList();
+      })
+      .catch(e => {
+        console.log(e);
+      });
+  };
+
+  const findByCountryName = () => {
+    CountryService.createInitialize({ Countryid: searchCountryName })
+      .then(response => {
+        setCountry(response.data.CountryList);
+        console.log(response.data.CountryList);
+      })
+      .catch(e => {
+        console.log(e);
+      });
+  };
+
+  return (
+
+    <div className="container mt-5">
+
+      <div className="row">
+        <div className="col-md-6">
+          <h4>Country List</h4>
+          <table className="table table-striped">
+            <thead>
+              <tr>
+                <th>Country Name</th>
+                <th>Country Code</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              {country && country.map((country, index) => (
+                <tr
+                  className={"table" + (index === currentIndex ? "active" : "")}
+                  onClick={() => setActiveState(state, index)}
+                  key={index}
+                >
+                  <td>{country.countryname}</td>
+                  <td>{country.countrycode}</td>
+                  <td>
+                    {country.status === 2 ? (
+                      <span className="badge badge-success" style={{ color: "grey" }}>InActive</span>
+                    ) : (
+                      <span className="badge badge-danger" style={{ color: "black" }}>Active</span>
+                    )}
+                  </td>
+                  <td>
+                    <Link
+                      to={/updatecountry/${country.countryid}}
+                      className="btn btn-warning btn-sm"
+                      onClick={() => handleEditClick(country.countryid)}
+                    >
+                      Edit
+                    </Link>
+                    <span className="mx-2"></span>
+                    <button
+                      className="btn btn-danger btn-sm"
+                      onClick={() => ChangeStatus(country.countryId)}
+                    >
+                      Remove
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+
+        </div>
+      </div>
+    </div>
+   
+  );
+};
+
+export default CountryList;
+
+
+
+
+
+
