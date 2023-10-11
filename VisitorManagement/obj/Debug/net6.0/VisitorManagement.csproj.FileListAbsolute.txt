@@ -1,0 +1,198 @@
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.AssemblyReference.cache
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.AssemblyInfoInputs.cache
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.AssemblyInfo.cs
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.CoreCompileInputs.cache
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\appsettings.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.exe
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.deps.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.runtimeconfig.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.pdb
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Dapper.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.VisitorManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.VisitorManagement.props
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VisitorManagement.props
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VisitorManagement.props
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\scopedcss\bundle\VisitorManagement.styles.css
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.CopyComplete
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\refint\VisitorManagement.dll
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.pdb
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.genruntimeconfig.cache
+C:\Praveen\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\ref\VisitorManagement.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\appsettings.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.exe
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.deps.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.runtimeconfig.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\VisitorManagement.pdb
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Dapper.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Humanizer.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.CodeDom.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.AssemblyReference.cache
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.AssemblyInfoInputs.cache
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.AssemblyInfo.cs
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.CoreCompileInputs.cache
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.VisitorManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.VisitorManagement.props
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VisitorManagement.props
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VisitorManagement.props
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\scopedcss\bundle\VisitorManagement.styles.css
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.csproj.CopyComplete
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\refint\VisitorManagement.dll
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.pdb
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\VisitorManagement.genruntimeconfig.cache
+E:\oct 9\Project VM\VisitorManagement\VisitorManagement\obj\Debug\net6.0\ref\VisitorManagement.dll
