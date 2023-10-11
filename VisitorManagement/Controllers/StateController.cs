@@ -1,0 +1,83 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
+using VisitorManagement.Services.Master.State;
+
+namespace VisitorManagement.Controllers
+{
+    [ApiController]
+    [Route("[Controller]")]
+    public class StateController : ControllerBase
+    {
+        private readonly IStateService stateService;
+
+        public StateController(IStateService _stateService)
+        {
+            stateService = _stateService;
+        }
+
+        [HttpPost("CreateInitialize")]
+
+        public async Task<IActionResult> CreateInitialize(JObject input)
+        {
+            try
+            {
+                return Ok(await stateService.CreateInitialize(input));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+        [HttpPost("Create")]
+
+        public async Task<IActionResult> Create(JObject input)
+        {
+            try
+            {
+                return Ok(await stateService.Create(input));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+        [HttpPost("Update")]
+        public async Task<IActionResult> Update(JObject input)
+        {
+            try
+            {
+
+                return Ok(await stateService.Update(input));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+
+        }
+        [HttpPost("ChangeStatus")]
+        public async Task<IActionResult> ChangeStatus(JObject input)
+        {
+            try
+            {
+                return Ok(await stateService.ChangeStatus(input));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+        [HttpPost("SearchInitialize")]
+        public async Task<IActionResult> SearchInitialize(JObject input)
+        {
+            try
+            {
+                return Ok(await stateService.SearchInitialize(input));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+    }
+}
