@@ -1,0 +1,27 @@
+CREATE TABLE Company_Master (
+    companyid INT PRIMARY KEY,
+    companyname VARCHAR(255) ,
+    companycode VARCHAR(50) ,
+    status VARCHAR(20) ,
+    createdby VARCHAR(100) ,
+    createdon DATETIME ,
+    modifiedby VARCHAR(100),
+    modifiedon DATETIME
+);
+
+SELECT * FROM Company_Master
+sp_helptext CI_Company_SI
+ALTER PROCEDURE CI_Company_SI 
+@Companyid int ,  
+@type nvarchar(50)=''   
+AS   BEGIN      
+if(@type='SearchInitialize')       
+begin   
+SELECT * FROM CompanyMaster where  [status]=1   
+end    
+else if(@type='CreateInitialize')   
+begin     
+Select * from CompanyMaster where companyid=@Companyid 
+end    
+END 
+
