@@ -58,13 +58,15 @@ The React frontend will be available at http://localhost:3000.
 
 cd visitor-management-backend
 Set up your database and configure your connection string in appsettings.json.
-
 3. Build and run the backend application:
 
-dotnet build
-dotnet run
+    dotnet build
+    dotnet run
+
 The .NET backend will be available at http://localhost:7252.
 
 ### Configuration:
 
- This project requires setting up of SQL Database from which the API fetching and storing the data .
+ This project requires setting up of MS SQL Database from which the API fetching and storing the data 
+ 
+ The queries used in this project are stored inside MS Sql folder
